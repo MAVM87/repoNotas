@@ -8,7 +8,7 @@
     7  git config user.name MAVM87
     8  git config user.MAVM87
     9  git config user.miguelvelascomartin@gmail.com
-   10  git clone https://github.com/MAVM87/repoNotas.git
+~~~~   10  git clone https://github.com/MAVM87/repoNotas.git
    11  cd repoNotas/
    12  nano do.txt
    13  nano re.txt
